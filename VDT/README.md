@@ -12,7 +12,7 @@ pytorch 1.11.0
 
 tensorboardX 2.5
 ## Results and Saliency maps
-We provide [saliency maps](https://drive.google.com/file/d/1USRmpamaV5RJyI3iWp3J12bIZ0i-kbjr/view?usp=sharing) of our DMTNet on VDT dataset.
+We provide [saliency maps](https://drive.google.com/file/d/1sC4FVbp4J536MNqO8KSD4Js4l5jNcPs7/view?usp=sharing) of our DMTNet on VDT dataset.
 ## Training
 Please run 
 ```
@@ -26,8 +26,7 @@ train.py
 test.py
 ```
 ## Downloading Training and Testing Datasets:
-- Download the [training set](https://drive.google.com/file/d/1BPt09rbgSYQcu0LpQoKSNVgXA3aYvkF7/view?usp=sharing) used for training.
-- Download the [testing sets](https://drive.google.com/file/d/1wAVNEYDrTZK7oWB4J-3MTXmAo1AsVZCj/view?usp=sharing) used for testing.
+- The VDT-2048 dataset and challenge in Test-set can be download [here](https://pan.baidu.com/s/1SJUWp_3pDbhcTW8ZOjYc8A ) (fetch code: lw6y)
 
 
 
