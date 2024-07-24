@@ -1,4 +1,4 @@
-# DMTNet: DMTNet:A Disentangled Multimodal Transformer Network for V-D-T Salient Object Detection
+# DMTNet: A Disentangled Multimodal Transformer Network for V-D-T Salient Object Detection
 
 
 
