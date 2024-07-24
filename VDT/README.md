@@ -1,7 +1,7 @@
 # DMTNet: DMTNet:A Disentangled Multimodal Transformer Network for V-D-T Salient Object Detection
+
 ![image](https://github.com/user-attachments/assets/4dc1dc79-671d-4ac6-8641-fbea76cbe846)
 
-The paper has been online published by IEEE Transactions on Multimedia. 
 
 ![](./figs/Overview.png)
 
