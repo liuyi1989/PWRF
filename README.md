@@ -10,11 +10,11 @@ Multi-modal fusion has played a vital role in multi-modal scene understanding. M
 ## Task validation
 On top of that, modal-shared and modal-specific details can be employed to solve the issue of multi-modal scene understanding, including synthetic arbitrary-modal semantic segmentation and visible-depth-thermal salient object detection. Experiments on several datasets demonstrate the superiority of the proposed PWRF framework for multi-modal scene understanding. 
 
-## Multi-modal smantic segmentation
-The details will be upload soon.
+## Multi-modal semantic segmentation
+The details will be updated soon.
 
 ## Visible-depth-thermal salient object detection
-The details will be upload soon.
+The details will be updated soon.
 
 
 
