@@ -1,4 +1,4 @@
-# DMTNet: A Disentangled Multimodal Transformer Network for V-D-T Salient Object Detection
+# PWRF For VDT Salient Object Detection 
 
 
 
@@ -12,7 +12,7 @@ pytorch 1.11.0
 
 tensorboardX 2.5
 ## Results and Saliency maps
-We provide [saliency maps](https://drive.google.com/file/d/1sC4FVbp4J536MNqO8KSD4Js4l5jNcPs7/view?usp=sharing) of our DMTNet on VDT dataset.
+We provide [saliency maps](https://drive.google.com/file/d/1sC4FVbp4J536MNqO8KSD4Js4l5jNcPs7/view?usp=sharing) of our PWRF on VDT dataset.
 ## Training
 Please run 
 ```
