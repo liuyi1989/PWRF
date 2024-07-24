@@ -1,4 +1,6 @@
-# CATNet: A Cascaded and Aggregated Transformer Network For RGB-D Salient Object Detection
+# DMTNet: DMTNet:A Disentangled Multimodal Transformer Network for V-D-T Salient Object Detection
+![image](https://github.com/user-attachments/assets/4dc1dc79-671d-4ac6-8641-fbea76cbe846)
+
 The paper has been online published by IEEE Transactions on Multimedia. 
 
 ![](./figs/Overview.png)
@@ -27,18 +29,5 @@ CatNet_test.py
 - Download the [training set](https://drive.google.com/file/d/1BPt09rbgSYQcu0LpQoKSNVgXA3aYvkF7/view?usp=sharing) used for training.
 - Download the [testing sets](https://drive.google.com/file/d/1wAVNEYDrTZK7oWB4J-3MTXmAo1AsVZCj/view?usp=sharing) used for testing.
 
-## Citation
-If you find this work is useful for your research, please cite our paper:
-```
-@article{10179145,
-  author={Sun, Fuming and Ren, Peng and Yin, Bowen and Wang, Fasheng and Li, Haojie},
-  journal={IEEE Transactions on Multimedia}, 
-  title={CATNet: A Cascaded and Aggregated Transformer Network For RGB-D Salient Object Detection}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-14},
-  doi={10.1109/TMM.2023.3294003}}
-```
 
-If you anywhere questions, please tell me 724162106@qq.com.
+
